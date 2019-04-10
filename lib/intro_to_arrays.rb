@@ -26,7 +26,7 @@ def first_element_with_array_methods(south_east_asia)
   south_east_asia.shift
 end
 
-def last_element_with_array_methods
+def last_element_with_array_methods(south_east_asia)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   south_east_asia.pop
 end
