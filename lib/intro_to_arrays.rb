@@ -5,3 +5,9 @@ end
 def array_with_two_elements
 ["cat", "dog"]
 end
+
+def first_element
+["cat", "dog"]
+end
+
+first_element[1]
