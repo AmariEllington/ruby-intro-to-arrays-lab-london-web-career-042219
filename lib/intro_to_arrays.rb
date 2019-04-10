@@ -18,5 +18,5 @@ end
 
 def last_element
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-return taylor_swift[3]
+return taylor_swift[-1]
 end
